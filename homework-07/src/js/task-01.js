@@ -1,3 +1,7 @@
+
+"use strict";
+
+
 const categoriesListEl = document.querySelectorAll('.item')
 const showNumbersOfCategories = element => `В списке ${element.length} категории.`
 console.log(showNumbersOfCategories(categoriesListEl));

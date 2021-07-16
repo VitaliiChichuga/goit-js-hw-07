@@ -1,3 +1,8 @@
+"use strict";
+
+
+
+
 let input = document.getElementById("name-input");
 let nameOutput = document.getElementById("name-output");
 

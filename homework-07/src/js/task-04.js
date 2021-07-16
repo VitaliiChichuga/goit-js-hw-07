@@ -1,3 +1,7 @@
+"use strict";
+
+
+
 const button = {
   sub: document.querySelector("[data-action='increment']"),
   add: document.querySelector("[data-action='decrement']"),

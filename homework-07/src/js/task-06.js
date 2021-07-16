@@ -1,3 +1,9 @@
+"use strict";
+
+
+
+
+
 let inputVal = document.getElementById("validation-input");
 
 let totalLenght = inputVal.getAttribute("data-length");
